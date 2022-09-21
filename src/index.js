@@ -1,7 +1,7 @@
 /**
  * A partial player database object
  * @typedef {Object} PlayerPartial
- * @property {string} string The user id (snowflake) of the player
+ * @property {string} id The user id (snowflake) of the player
  * @property {number} elo The Elo rating of the player
  */
 
