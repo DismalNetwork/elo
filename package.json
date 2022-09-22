@@ -1,5 +1,5 @@
 {
-  "name": "elo",
+  "name": "@dismal/elo",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
@@ -16,5 +16,5 @@
     "url": "https://github.com/DismalNetwork/elo/issues"
   },
   "homepage": "https://github.com/DismalNetwork/elo#readme",
-  "description": ""
+  "description": "Our Elo calculation library."
 }
